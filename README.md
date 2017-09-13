@@ -123,6 +123,9 @@ If you are annoyed by whispers of gold sellers and beggers this is right choice 
 - CHANNEL8
 - CHANNEL9
 - CHANNEL10
+## Future Features
 
-##Credits
+- **Spam Mail Blocking**
+- **Optional Spam Verification Prompt** (If someone within the filtered levels whispers you it will ask them to confirm they are not a bot before sending another message)
+## Credits
 - Created by Psychi and Continued by SolinisVC
